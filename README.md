@@ -78,7 +78,7 @@ You can also use the `run-task` script described above to build both ODK 1 and O
 
 ### Prerequisites
 
- * Install [Python 3](https://www.python.org/downloads/)
+ * Install [Python 3.x](https://www.python.org/downloads/)
  * Install [git](https://git-scm.com/downloads)
  * Install [Git-LFS](https://git-lfs.github.com/)
  
